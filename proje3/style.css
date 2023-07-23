@@ -1,0 +1,16 @@
+.navbar ul {
+    display: inline-block;
+     margin-right: 25px; 
+    position: absolute;
+    /* right: 100px; */
+     top: 50px;
+     margin-left: 100px;
+ 
+ }
+ 
+  .navbar ul li{
+ 
+   list-style: none;
+   display: inline-block;
+   margin: 0 25px;
+  }
